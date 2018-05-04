@@ -7,3 +7,4 @@ Git tracks changes of files.
 <<<<<<< HEAD
 Creating a new branch is quick AND simplple.
 add oneline1.
+add oneline2.
