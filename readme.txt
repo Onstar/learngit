@@ -4,4 +4,5 @@ change once.
 Git is free software distributed under the GPL.
 Git has a mutable idnex called stage.
 Git tracks changes of files.
-Creating a new branch is quick AND simple b.
+<<<<<<< HEAD
+Creating a new branch is quick AND simplple.
