@@ -6,3 +6,4 @@ Git has a mutable idnex called stage.
 Git tracks changes of files.
 <<<<<<< HEAD
 Creating a new branch is quick AND simplple.
+add oneline1.
