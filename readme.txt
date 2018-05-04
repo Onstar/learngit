@@ -9,3 +9,4 @@ Creating a new branch is quick AND simplple.
 add oneline1.
 add oneline2.
 add oneline3.
+Bug graph.
